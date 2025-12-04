@@ -42,13 +42,18 @@
               "text": "This logo represents the long-running WGBH public affairs show "
             },
             {
-              "text": "Say Brother",
-              "italic": true,
-              "link": "https://americanarchive.org/special_collections/say-brother"
+              "type": "link",
+              "url": "https://americanarchive.org/special_collections/say-brother",
+              "children": [
+                {
+                  "text": "Say Brother",
+                  "italic": true
+                }
+              ]
             },
             {
-              "italic": true,
-              "text": " "
+              "text": " ",
+              "italic": true
             },
             {
               "text": "(1968-1997). "
