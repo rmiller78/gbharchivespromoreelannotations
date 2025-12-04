@@ -97,7 +97,8 @@
             },
             {
               "text": "FRONTLINE",
-              "italic": true
+              "italic": true,
+              "link": "https://www.pbs.org/wgbh/frontline/"
             },
             {
               "text": ". Produced at GBH and distributed through PBS, "
