@@ -84,6 +84,50 @@
       ],
       "tags": [],
       "uuid": "53e423bd-3e95-4672-b652-4a20e3179aed"
+    },
+    {
+      "start_time": 12,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the title card for "
+            },
+            {
+              "text": "FRONTLINE",
+              "italic": true
+            },
+            {
+              "text": ". Produced at GBH and distributed through PBS, "
+            },
+            {
+              "text": "FRONTLINE",
+              "italic": true
+            },
+            {
+              "text": " first debuted in 1983 as a series of documentary films on a variety of contemporary subjects produced by the Documentary Consortium, a group of public television stations including KCTS Seattle, WNET New York, WPBT Miami, WTVS Detroit, and WGBH Boston. Today "
+            },
+            {
+              "text": "FRONTLINE",
+              "italic": true
+            },
+            {
+              "text": " is produced at GBH, where its senior editorial team and newsroom are headquartered. "
+            },
+            {
+              "text": "FRONTLINE",
+              "italic": true
+            },
+            {
+              "text": " works with a production corps of independent filmmakers and frequently collaborates with news organizations such as ProPublica, NPR, The New York Times, and the Associated Press, among others. Most episodes are one hour in length, although some are extended to 90 minutes, 2 hours, or longer. The series was founded by David Fanning, who served as executive producer for over 30 years, from 1983-2015, with Raney Aronson-Rath taking on the position in 2015. Will Lyman has served as the narrator for over three decades, starting in 1984. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b2f302c9-5595-482b-8fb4-ed9f32e06c5a"
     }
   ],
   "set": "Default",
