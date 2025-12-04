@@ -168,6 +168,22 @@
       ],
       "tags": [],
       "uuid": "9353c2b5-b383-4c1f-bf37-289302ef890a"
+    },
+    {
+      "start_time": 17,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8f48332c-6c67-4ad8-a451-151a40f98130"
     }
   ],
   "set": "Default",
