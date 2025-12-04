@@ -152,6 +152,22 @@
       ],
       "tags": [],
       "uuid": "f152c047-2497-4e28-af62-9fb486d29074"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Advocates"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9353c2b5-b383-4c1f-bf37-289302ef890a"
     }
   ],
   "set": "Default",
