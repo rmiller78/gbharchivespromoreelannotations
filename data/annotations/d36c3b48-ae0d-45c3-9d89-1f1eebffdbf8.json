@@ -138,7 +138,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "This is the title card to "
+            },
+            {
+              "text": "Boston News",
+              "italic": true
+            },
+            {
+              "text": "."
             }
           ]
         }
