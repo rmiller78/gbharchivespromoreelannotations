@@ -186,22 +186,6 @@
       "uuid": "8f48332c-6c67-4ad8-a451-151a40f98130"
     },
     {
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The Ten O'Clock News"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "d840ee92-097c-489d-be59-3e5f84759578"
-    },
-    {
       "start_time": 20,
       "end_time": 25,
       "annotation": [
