@@ -1,5 +1,37 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The WGBH sting. With its synthesizer crescendo, the sting has changed very little since it sizzled across the airwaves around 1970. The flair was created by legendary composer "
+            },
+            {
+              "text": "Gershon Kingsley",
+              "link": "https://en.wikipedia.org/wiki/Gershon_Kingsley"
+            },
+            {
+              "text": ", who died in 2019 at the age of 97. An up-and-coming musician who elevated the Moog synthesizer to almost cult status during the 1970s, Kingsley developed the sting in conjunction with two GBH employees: WGBH’s director of creative services and the general manager. It happened in secret, and the story of its development was almost lost to history."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "36fc206a-de51-4336-8839-d87514f9d892"
+    }
+  ],
   "set": "Default",
   "event_id": "c600e2fe-deeb-4a59-94d5-e4fa95c56f2f",
   "source_id": "d475546f-2f34-4207-a59e-abd279e14db8"
