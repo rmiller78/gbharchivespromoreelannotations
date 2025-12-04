@@ -216,6 +216,22 @@
       ],
       "tags": [],
       "uuid": "af93e6b1-821a-4cbc-9ba5-1b87e9ba07ae"
+    },
+    {
+      "start_time": 26,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The French Chef"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6c1b3e76-6c42-4443-a1ac-ffcd1b911585"
     }
   ],
   "set": "Default",
