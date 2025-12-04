@@ -30,6 +30,63 @@
       ],
       "tags": [],
       "uuid": "36fc206a-de51-4336-8839-d87514f9d892"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This logo represents the long-running WGBH public affairs show "
+            },
+            {
+              "text": "Say Brother",
+              "italic": true,
+              "link": "https://americanarchive.org/special_collections/say-brother"
+            },
+            {
+              "italic": true,
+              "text": " "
+            },
+            {
+              "text": "(1968-1997). "
+            },
+            {
+              "text": "Say Brother",
+              "italic": true
+            },
+            {
+              "text": " premiered three months after the assassination of Martin Luther King, Jr. and gave voice to Black perspectives during a period of racial protest and rapid social change. In 1998, "
+            },
+            {
+              "text": "Say Brother",
+              "italic": true
+            },
+            {
+              "text": " became "
+            },
+            {
+              "text": "Basic Black",
+              "italic": true
+            },
+            {
+              "text": " (1998-2024), a title that producer Cynthia Johnson felt was more inclusive of women."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n\n\n\n\n\n\n \n \n\n  This logo\n  represents the long-running WGBH public affairs show Say\n  Brother (1968-1997). Say Brother premiered three\n  months after the assassination of Martin Luther King, Jr. and gave voice to\n  Black perspectives during a period of racial protest and rapid social change.\n  In 1998, Say Brother became Basic Black (1998-2024), a\n  title that producer Cynthia Johnson felt was more inclusive of women.\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\n  This logo\n  represents the long-running WGBH public affairs show Say\n  Brother (1968-1997). Say Brother premiered three\n  months after the assassination of Martin Luther King, Jr. and gave voice to\n  Black perspectives during a period of racial protest and rapid social change.\n  In 1998, Say Brother became Basic Black (1998-2024), a\n  title that producer Cynthia Johnson felt was more inclusive of women.\n\n \n\n\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "53e423bd-3e95-4672-b652-4a20e3179aed"
     }
   ],
   "set": "Default",
