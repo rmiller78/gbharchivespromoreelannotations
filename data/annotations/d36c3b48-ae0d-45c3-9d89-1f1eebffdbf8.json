@@ -799,7 +799,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Say Brother; 419; N.a.a.c.p"
+              "text": "For series information see annotation on"
+            },
+            {
+              "italic": true,
+              "text": " Say Brother"
+            },
+            {
+              "text": " at the 12 second mark. This clip comes from "
+            },
+            {
+              "text": "episode 419",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-15-9h12v71q"
+            },
+            {
+              "text": " that aired on March 17, 1975. The episode examines the role of the National Association for the Advancement of Colored People (NAACP) in the lives of African Americans. Host Leah Fletcher interviews Vernon Sport (President of the New England Regional Conference of the NAACP), Tom Atkins (President of the Boston Branch of the NAACP), and Reverend Charles Smith (National Board Member for the NAACP) and asks how the NAACP works towards equality in America, how the NAACP has proven itself, what the role is of the court system in the NAACP's work, how the NAACP decides which issues it will pursue, how citizen or test cases are selected, in what areas the NAACP has been most effective, and why desegregation in Boston is an important issue."
             }
           ]
         }
