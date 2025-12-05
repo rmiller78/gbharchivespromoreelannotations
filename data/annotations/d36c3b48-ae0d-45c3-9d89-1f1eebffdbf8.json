@@ -471,7 +471,19 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "American Experience; In the White Man's Image"
+              "text": "American Experience",
+              "italic": true,
+              "link": "https://video.wgbh.org/show/american-experience/"
+            },
+            {
+              "text": " (1988-present) is one of TV's most-watched history series, bringing to life the compelling stories from our past that inform our understanding of the world today. The clip is taken from the documentary "
+            },
+            {
+              "text": "In the White Man's Image ",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-0b1b864752e"
+            },
+            {
+              "text": "and explores an experiment that begun in the late 1800s, to assimilate Indians into mainstream American society. "
             }
           ]
         }
