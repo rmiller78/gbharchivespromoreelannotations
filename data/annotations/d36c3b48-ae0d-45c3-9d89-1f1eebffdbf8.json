@@ -487,7 +487,35 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Masterpiece Theatre; 20th Anniversary Favorites: On Approval; 2015"
+              "text": "These clip comes from "
+            },
+            {
+              "text": "Masterpiece Theatre",
+              "link": "https://openvault.wgbh.org/collections/masterpiece",
+              "italic": true
+            },
+            {
+              "text": " ",
+              "italic": true
+            },
+            {
+              "text": "and feature Alistair Cooke who hosted the program between (1971-1992) The first clip is taken from "
+            },
+            {
+              "text": "20th Anniversary Favorites",
+              "italic": true,
+              "link": "https://americanarchive.org/catalog/cpb-aacip-75a3b821e21"
+            },
+            {
+              "text": " which introduced re-aired episodes from the first 20 years of the show as a celebration. The second clip comes from an intro to the episode"
+            },
+            {
+              "text": "The Death of the Heart",
+              "italic": true,
+              "link": "https://americanarchive.org/catalog/cpb-aacip-d954db31685"
+            },
+            {
+              "text": " which was broadcast on May 3rd, 1987. "
             }
           ]
         }
