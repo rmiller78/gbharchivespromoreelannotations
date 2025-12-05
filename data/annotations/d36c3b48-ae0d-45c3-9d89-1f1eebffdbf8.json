@@ -456,6 +456,22 @@
       ],
       "tags": [],
       "uuid": "345e6993-8f29-43f9-a9e1-ecc9eb8f3bb0"
+    },
+    {
+      "start_time": 119,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Say Brother; The Blue Notes"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a5c83c06-1867-4067-ba70-f27d5eea7e26"
     }
   ],
   "set": "Default",
