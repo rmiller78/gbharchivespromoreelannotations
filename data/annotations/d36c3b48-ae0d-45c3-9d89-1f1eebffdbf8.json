@@ -344,6 +344,22 @@
       ],
       "tags": [],
       "uuid": "d02a57a3-b868-4749-a60b-dbd148617a4e"
+    },
+    {
+      "start_time": 35,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "James Brown At The Boston Garden; James Brown and Mayor Kevin White Address the Crowd at the Boston Garden"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "351de315-0b7c-492a-88a5-b45c57da3198"
     }
   ],
   "set": "Default",
