@@ -312,6 +312,22 @@
       ],
       "tags": [],
       "uuid": "89f76dfe-000b-4c91-99a1-5638f75e9d50"
+    },
+    {
+      "start_time": 80,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Masterpiece Theatre; 20th Anniversary Favorites: On Approval; 2015"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "931ef2e2-e92b-44d9-9b8d-915bde1b8306"
     }
   ],
   "set": "Default",
