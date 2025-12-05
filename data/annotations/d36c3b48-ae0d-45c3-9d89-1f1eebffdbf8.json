@@ -280,6 +280,22 @@
       ],
       "tags": [],
       "uuid": "ae63109c-a99b-4d5c-887a-b5dd66cef617"
+    },
+    {
+      "start_time": 56,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOVA; To the Moon; Interview with Leon \"Lee\" Silver and Harrison \"Jack\" Schmitt at Sunset Crater, part 1 of 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b4c3b17b-797e-4c98-a3d8-397152832bfb"
     }
   ],
   "set": "Default",
