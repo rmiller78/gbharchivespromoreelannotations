@@ -232,6 +232,22 @@
       ],
       "tags": [],
       "uuid": "4b653921-c015-4abc-a4b2-4e199f45da9a"
+    },
+    {
+      "start_time": 33,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dancing Disco; Line Dancing and Disco Fashion; 101"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a991b122-1796-4b6a-af92-6ebc61997263"
     }
   ],
   "set": "Default",
