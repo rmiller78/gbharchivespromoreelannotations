@@ -376,6 +376,22 @@
       ],
       "tags": [],
       "uuid": "b147e1f7-d77c-4c13-b405-a0a121e02a56"
+    },
+    {
+      "start_time": 99,
+      "end_time": 702,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "French Chef; Lasagne a la Francaise; 208"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f28798da-cbf8-41d9-b4d2-bbd3b31f4896"
     }
   ],
   "set": "Default",
