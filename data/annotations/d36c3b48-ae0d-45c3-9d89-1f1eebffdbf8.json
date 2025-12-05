@@ -248,6 +248,22 @@
       ],
       "tags": [],
       "uuid": "a991b122-1796-4b6a-af92-6ebc61997263"
+    },
+    {
+      "start_time": 48,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "FRONTLINE; The Dallas Drug War and Follow-Up Discussion"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fb2adf75-0f4b-4f7e-ad11-7484f1cdd888"
     }
   ],
   "set": "Default",
