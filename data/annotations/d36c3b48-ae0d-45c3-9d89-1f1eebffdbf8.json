@@ -408,6 +408,22 @@
       ],
       "tags": [],
       "uuid": "c3e0296c-1a36-4111-9ffe-ae369cadfdb2"
+    },
+    {
+      "start_time": 105,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ZOOM, Series I; 227"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "35eff605-1f63-41b6-a0b0-e3c0b615eb65"
     }
   ],
   "set": "Default",
