@@ -168,8 +168,13 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Advocates ",
-              "italic": true
+              "text": "Advocates",
+              "italic": true,
+              "link": "https://openvault.wgbh.org/collections/the-advocates"
+            },
+            {
+              "italic": true,
+              "text": " "
             },
             {
               "text": "was series that hosted a range of debates with a moderator facilitating the discussion on national and international issues – using advocates who would introduce witnesses to support their point of view. Many debates were recorded at Boston’s Faneuil Hall. Moderators included: Michael Dukakis; Marilyn Berger; Michael Harrington, Robert Maynard. Premiered October, 1969; conceived by Prof. Roger Fisher. "
