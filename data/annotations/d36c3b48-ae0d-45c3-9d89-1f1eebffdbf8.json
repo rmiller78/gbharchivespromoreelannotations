@@ -649,7 +649,29 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The Big Dig; Breaking Ground "
+              "text": "This archival footage from the "
+            },
+            {
+              "text": "Ten O'Clock News",
+              "italic": true
+            },
+            {
+              "text": " was sourced from the award-winning GBH podcast"
+            },
+            {
+              "text": "The Big Dig ",
+              "italic": true,
+              "link": "https://www.wgbh.org/podcasts/the-big-dig"
+            },
+            {
+              "text": "(2024). The podcast made significant use of archival footage from the GBH Archives to explore the controversies of American infrastructure by telling the story of Boston’s Big Dig. The Big Dig was a massive highway tunneling effort that is infamous for its ever-increasing price tag and became a symbol of waste and corruption. The extracted clip comes from the episode "
+            },
+            {
+              "text": "Breaking Ground",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-15-375tckqf"
+            },
+            {
+              "text": " "
             }
           ]
         }
