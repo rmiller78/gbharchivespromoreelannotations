@@ -424,6 +424,22 @@
       ],
       "tags": [],
       "uuid": "35eff605-1f63-41b6-a0b0-e3c0b615eb65"
+    },
+    {
+      "start_time": 110,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Big Dig, The; Breaking Ground "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "03276c33-0fdf-4881-9c85-93ef3bf6c4b5"
     }
   ],
   "set": "Default",
