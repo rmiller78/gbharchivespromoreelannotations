@@ -580,10 +580,15 @@
           "children": [
             {
               "text": "Joyce Chen Cooks",
-              "italic": true
+              "italic": true,
+              "link": "https://openvault.wgbh.org/collections/cooking"
             },
             {
-              "text": " followed production of the"
+              "text": " ",
+              "link": "https://openvault.wgbh.org/collections/cooking"
+            },
+            {
+              "text": "followed production of the"
             },
             {
               "text": " French Chef",
