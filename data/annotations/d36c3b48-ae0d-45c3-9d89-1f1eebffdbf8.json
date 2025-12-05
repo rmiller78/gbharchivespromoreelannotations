@@ -440,6 +440,22 @@
       ],
       "tags": [],
       "uuid": "03276c33-0fdf-4881-9c85-93ef3bf6c4b5"
+    },
+    {
+      "start_time": 117,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ten O'Clock News; Reagan Rally"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "345e6993-8f29-43f9-a9e1-ecc9eb8f3bb0"
     }
   ],
   "set": "Default",
