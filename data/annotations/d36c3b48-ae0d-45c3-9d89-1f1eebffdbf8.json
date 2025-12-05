@@ -264,6 +264,22 @@
       ],
       "tags": [],
       "uuid": "fb2adf75-0f4b-4f7e-ad11-7484f1cdd888"
+    },
+    {
+      "start_time": 41,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "George Blood"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ae63109c-a99b-4d5c-887a-b5dd66cef617"
     }
   ],
   "set": "Default",
