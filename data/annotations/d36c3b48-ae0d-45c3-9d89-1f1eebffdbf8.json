@@ -551,7 +551,19 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "French Chef; Lasagne a la Francaise; 208"
+              "text": "French Chef",
+              "italic": true
+            },
+            {
+              "text": ": "
+            },
+            {
+              "text": "Lasagne a la Francaise; 208",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-15-pz51g0j634",
+              "italic": true
+            },
+            {
+              "text": ". See annotation at the 26 second mark. "
             }
           ]
         }
