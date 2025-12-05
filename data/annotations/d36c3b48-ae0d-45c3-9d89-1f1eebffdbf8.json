@@ -193,7 +193,33 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Press and People"
+              "text": "Groundbreaking in concept, "
+            },
+            {
+              "text": "The Press and the People:",
+              "italic": true,
+              "link": "https://openvault.wgbh.org/collections/press-and-the-people"
+            },
+            {
+              "italic": true,
+              "text": " An Inquiry Into the Work of the American Press in Informing the American People"
+            },
+            {
+              "text": " was one of the first series to explore how newspaper and television reporters covered key events in the 1950s, and how that shaped public opinion and knowledge on issues such as the nuclear weapons, the Berlin Crisis and secrecy in the government. Hosted by Louis Lyons, the first television newscaster at GBH, "
+            },
+            {
+              "text": "The Press and the People",
+              "italic": true
+            },
+            {
+              "text": " brought together esteemed journalists such as Edward R. Murrow, Eric Sevareid and Martin Agronsky to discuss their role in the creation and dissemination of current events. The episode this clip is taken from is episode 2 in the series, and entitled \""
+            },
+            {
+              "text": "Washington and the Press.",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-15-805x6r0p"
+            },
+            {
+              "text": "\""
             }
           ]
         }
