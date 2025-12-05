@@ -382,7 +382,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "George Blood"
+              "text": "This sequence was shot at "
+            },
+            {
+              "text": "George Blood LP, ",
+              "link": " https://georgeblood.com/ "
+            },
+            {
+              "text": "the world class digitization facility GBH entrusts to transfer it's physical media archive into digital files."
             }
           ]
         }
