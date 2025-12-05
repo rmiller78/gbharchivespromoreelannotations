@@ -392,6 +392,22 @@
       ],
       "tags": [],
       "uuid": "f28798da-cbf8-41d9-b4d2-bbd3b31f4896"
+    },
+    {
+      "start_time": 103,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Joyce Chen Cooks; Beef and Vegetables; 10"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c3e0296c-1a36-4111-9ffe-ae369cadfdb2"
     }
   ],
   "set": "Default",
