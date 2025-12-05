@@ -472,6 +472,22 @@
       ],
       "tags": [],
       "uuid": "a5c83c06-1867-4067-ba70-f27d5eea7e26"
+    },
+    {
+      "start_time": 121,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Say Brother; 419; N.a.a.c.p"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5560f85e-4a14-499f-8f51-b2ddb8cf252f"
     }
   ],
   "set": "Default",
