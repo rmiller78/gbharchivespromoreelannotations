@@ -745,7 +745,14 @@
               "link": "https://americanarchive.org/catalog/cpb-aacip-15-47dr8vwf"
             },
             {
-              "text": " of the Ten O'Clock News that aired on November 1, 1984 reporting on the Reagan Rally at City Hall Plaza in Boston, when anti-Reagan protesters demonstrated. "
+              "text": " of the "
+            },
+            {
+              "text": "Ten O'Clock News",
+              "italic": true
+            },
+            {
+              "text": " that aired on November 1, 1984 reporting on the Reagan Rally at City Hall Plaza in Boston, when anti-Reagan protesters demonstrated. "
             }
           ]
         }
