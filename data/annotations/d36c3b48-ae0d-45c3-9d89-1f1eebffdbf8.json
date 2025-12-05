@@ -740,7 +740,22 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Say Brother; The Blue Notes"
+              "text": "From GBH's Black public affairs show "
+            },
+            {
+              "text": "Say Brother - ",
+              "italic": true
+            },
+            {
+              "text": "see note at the 12 second mark. This clip is taken from "
+            },
+            {
+              "text": "The Blue Notes ",
+              "italic": true,
+              "link": "https://americanarchive.org/catalog/cpb-aacip-15-qv3bz61k4c"
+            },
+            {
+              "text": "The presenter Barbara Barrow-Murray interviews Jerry Cummings and Dwight Johnson, two members of the R&B vocal group The Blue Notes."
             }
           ]
         }
