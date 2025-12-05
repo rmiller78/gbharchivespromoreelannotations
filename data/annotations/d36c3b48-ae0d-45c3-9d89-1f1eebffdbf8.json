@@ -296,6 +296,22 @@
       ],
       "tags": [],
       "uuid": "b4c3b17b-797e-4c98-a3d8-397152832bfb"
+    },
+    {
+      "start_time": 65,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "American Experience; In the White Man's Image"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "89f76dfe-000b-4c91-99a1-5638f75e9d50"
     }
   ],
   "set": "Default",
