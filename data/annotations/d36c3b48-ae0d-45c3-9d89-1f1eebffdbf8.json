@@ -235,7 +235,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The images here come from the Ten O'Clock News. The "
+              "text": "The images here come from the "
+            },
+            {
+              "text": "Ten O'Clock News",
+              "italic": true
+            },
+            {
+              "text": ". The "
             },
             {
               "text": "episode",
