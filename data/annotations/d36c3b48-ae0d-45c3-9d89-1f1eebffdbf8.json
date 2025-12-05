@@ -339,7 +339,18 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Dancing Disco; Line Dancing and Disco Fashion; 101"
+              "text": "This clip comes from the popular locally-produced disco dance instruction program "
+            },
+            {
+              "text": "Dancing Disco ",
+              "italic": true
+            },
+            {
+              "text": "(1978–1979), the episode is: "
+            },
+            {
+              "text": "Line Dancing and Disco Fashion; 101",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-15-p26pz51s9f"
             }
           ]
         }
