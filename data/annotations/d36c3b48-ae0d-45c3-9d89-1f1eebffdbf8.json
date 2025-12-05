@@ -503,7 +503,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "New Television; Set and Reset, Version 1; Opening sequence from Set and Reset, Version 1"
+              "text": "New Television Workshop",
+              "italic": true,
+              "link": "https://openvault.wgbh.org/collections/new-television-workshop"
+            },
+            {
+              "text": " at GBH supported the creation and broadcast of experimental works by artists from 1974 to 1993. This clip comes from the opening sequence of"
+            },
+            {
+              "text": "Set and Reset.",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-60e7c609bc2",
+              "italic": true
+            },
+            {
+              "link": "https://americanarchive.org/catalog/cpb-aacip-60e7c609bc2",
+              "text": " "
             }
           ]
         }
