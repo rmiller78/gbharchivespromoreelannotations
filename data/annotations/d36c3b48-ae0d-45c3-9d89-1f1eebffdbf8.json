@@ -579,7 +579,44 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Joyce Chen Cooks; Beef and Vegetables; 10"
+              "text": "Joyce Chen Cooks",
+              "italic": true
+            },
+            {
+              "text": " followed production of the"
+            },
+            {
+              "text": " French Chef",
+              "italic": true
+            },
+            {
+              "text": "  and began in 1966. Like "
+            },
+            {
+              "text": "The French Chef",
+              "italic": true
+            },
+            {
+              "text": ", all the program first aired locally and then was distributed nationally on public television. You can read more about the show "
+            },
+            {
+              "type": "link",
+              "url": "https://openvault.wgbh.org/exhibits/art-of-asian-cooking",
+              "children": [
+                {
+                  "text": "here "
+                }
+              ]
+            },
+            {
+              "text": "in this scholarly digital exhibit created by Dana Polan. The episode referenced by the video is entitled "
+            },
+            {
+              "text": "Beef and Vegetables.",
+              "link": "https://americanarchive.org/catalog/cpb-aacip-15-m32n58ct0f"
+            },
+            {
+              "text": " The episode description states: The authentic Chinese way to cook Western beef with Chinese vegetables like beef with broccoli, beef with green peppers, beef with fresh mushrooms, beef with pea pods, and beef with Chinese cabbage. Flank steak, cut in slices, and seasoned in a special way is cooked by the Quick-stir method with vegetables in just a few minutes. "
             }
           ]
         }
